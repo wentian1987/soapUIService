@@ -1,0 +1,6 @@
+org/springside/examples/bootapi/functional/BaseFunctionalTest.class
+org/springside/examples/bootapi/functional/BookEndpointTest.class
+org/springside/examples/bootapi/service/BookBorrowServiceTest.class
+org/springside/examples/bootapi/service/AccountServiceTest.class
+org/springside/examples/bootapi/functional/BookEndpointTest$BookList.class
+org/springside/examples/bootapi/repository/BookDaoTest.class

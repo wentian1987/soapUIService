@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.springside.examples.bootapi.functional.BookEndpointTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 89.739 sec <<< FAILURE! - in org.springside.examples.bootapi.functional.BookEndpointTest
+applyRequestWithError(org.springside.examples.bootapi.functional.BookEndpointTest)  Time elapsed: 0.193 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at org.springside.examples.bootapi.functional.BookEndpointTest.applyRequestWithError(BookEndpointTest.java:104)
+
